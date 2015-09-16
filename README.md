@@ -1,4 +1,4 @@
-## strip-units
+## strip-units [![Build Status](https://travis-ci.org/ciceropablo/strip-units.svg)](https://travis-ci.org/ciceropablo/strip-units)
 > A module to strip units.
 
 ## Installation
