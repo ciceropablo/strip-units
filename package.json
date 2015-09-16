@@ -1,0 +1,34 @@
+{
+  "name": "strip-units",
+  "version": "0.0.1",
+  "description": "A module to strip units.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "jshint ./*.js",
+    "test": "npm run lint && tape ./test.js | faucet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciceropablo/strip-units.git"
+  },
+  "keywords": [
+    "strip",
+    "units",
+    "unit"
+  ],
+  "author": {
+    "name": "Cícero Pablo",
+    "email": "cicero.pablos@gmail.com",
+    "url": "ciceropablo@github.io"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ciceropablo/strip-units/issues"
+  },
+  "homepage": "https://github.com/ciceropablo/strip-units#readme",
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "jshint": "^2.8.0",
+    "tape": "^4.2.0"
+  }
+}
